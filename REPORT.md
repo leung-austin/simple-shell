@@ -1,6 +1,6 @@
-## Project 1 - Simple shell 
+## Simple shell 
 
-To begin our project we started in phase 1 with the removal of system() and
+To begin the project we started with the removal of system() and
 implemented a simple fork(), execvp(), and wait() setup. Forking allowed for a 
 parent to be able to wait for the child and the execution of the given command.
 This structure we decided to keep and created into a function we have now 
